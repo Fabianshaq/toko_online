@@ -42,7 +42,7 @@ $nama = $row['nama_customer'];
 					<div class="row">
 						<div class="col">
 							<div class="header_content d-flex flex-row align-items-center justify-content-start">
-								<div class="logo"><a href="index.php">MuslimSunnah.ID</a></div>
+								<div class="logo"><a href="index.php">Eeyore</a></div>
 								<nav class="main_nav">
 									<ul>
 										<li class=""><a href="index.php">Home</a>
